@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wuzouseipe.highrate.top/sitemap.xml
